@@ -1,4 +1,10 @@
 # monday-night-swing
 Monday Night Swing.
 
-Content to come.
+Project uses Django.
+
+Set-up:
+
+Python
+
+Django
